@@ -1,0 +1,3 @@
+ez_systems_wu_v_field_types_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: xrowFieldTypesBundle:Default:index }
